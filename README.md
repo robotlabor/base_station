@@ -43,7 +43,7 @@ Our mobile base station consists of the following components:
 <br />
 <br />
 
-![Alt text](image.png)
+
 
 
 
