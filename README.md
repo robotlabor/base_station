@@ -40,5 +40,11 @@ Our mobile base station consists of the following components:
 
 - Start the <i>base_startup</i> shell script. This can be added to <i>crontab</i> for automatic startup. 
 
+<br />
+<br />
+
+![Alt text](image.png)
+
+
 
 
