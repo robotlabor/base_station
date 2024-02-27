@@ -1,4 +1,4 @@
-# Mobile Base NTRIP server configuration
+# Mobile Base station custom NTRIP server configuration
 
 ## 1. Aim
 
