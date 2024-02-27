@@ -54,7 +54,7 @@ Our mobile base station consists of the following components:
 
 ## 7. Other useful information for development
 
-- Pygnssutils package install location: <i>home/base/.local/lib/python3.10/site-packages/pygnssutils</i>
+- Pygnssutils package install location: home/base/.local/lib/python3.10/site-packages/pygnssutils
 - Other useful information about the pygnssutils package: <a href="[https://github.com/semuconsulting/pygnssutils](https://www.semuconsulting.com/pygnssutils/py-modindex.html)"><i>pygnssutils</i></a>
 <br />
 <br />
