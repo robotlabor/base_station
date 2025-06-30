@@ -27,6 +27,10 @@ Our mobile base station consists of the following components:
 - Install <a href="https://github.com/semuconsulting/pygnssutils"><i>pygnssutils</i></a>:
 
 ```python3 -m pip install --upgrade pygnssutils```
+```pip3 install pyubx2```
+```pip3 install utm```
+```pip3 install flask```
+```pip3 install lgpio```
 
 - Install <i>openvpn</i>:
 
@@ -37,6 +41,10 @@ Our mobile base station consists of the following components:
 - Start NTRIP client:
 
 ```gnssntripclient -S hostip -P 2101 -M pygnssutils --user anon --password password```
+
+-Or use http:
+
+``` Python3 http_base.py ```
 
 - Start the <i>base_startup</i> shell script. This can be added to <i>crontab</i> for automatic startup. 
 
