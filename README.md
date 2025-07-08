@@ -16,7 +16,9 @@ Our mobile base station consists of the following components:
 ## 3. System information and dependencies
 
 - Operating system: Ubuntu 20.04
-- Applied Python package: <a href="https://github.com/semuconsulting/pygnssutils"><i>pygnssutils</i></a>
+- Applied Python packages:
+  - <a href="https://github.com/semuconsulting/pygnssutils"><i>pygnssutils</i></a>
+  - <a href="https://github.com/semuconsulting/pygnssutils"><i>pygnssutils</i></a>
 
 ## 4. Installation
 
