@@ -26,11 +26,11 @@ Our mobile base station consists of the following components:
 
 - Install <a href="https://github.com/semuconsulting/pygnssutils"><i>pygnssutils</i></a>:
 
-```python3 -m pip install --upgrade pygnssutils```
-```pip3 install pyubx2```
-```pip3 install utm```
-```pip3 install flask```
-```pip3 install lgpio```
+```python3 -m pip install --upgrade pygnssutils```<br />
+```pip3 install pyubx2```<br />
+```pip3 install utm```<br />
+```pip3 install flask```<br />
+```pip3 install lgpio```<br />
 
 - Install <i>openvpn</i>:
 
