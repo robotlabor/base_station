@@ -34,9 +34,21 @@ Our mobile base station consists of the following components:
 - Install <a href="https://github.com/semuconsulting/pygnssutils"><i>pygnssutils</i></a>:
 
 ```python3 -m pip install --upgrade pygnssutils```<br />
+
+- Install <a href="https://pypi.org/project/pyubx2/0.1.9/"><i>pyubx2</i></a>:
+
 ```pip3 install pyubx2```<br />
+
+- Install <a href="https://pypi.org/project/utm/"><i>utm</i></a>:
+
 ```pip3 install utm```<br />
+
+- Install <a href="https://pypi.org/project/Flask/"><i>flask</i></a>:
+
 ```pip3 install flask```<br />
+
+- Install <a href="https://pypi.org/project/lgpio"><i>lgpio</i></a>:
+
 ```pip3 install lgpio```<br />
 
 - Install <i>openvpn</i>:
