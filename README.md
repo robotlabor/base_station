@@ -18,7 +18,12 @@ Our mobile base station consists of the following components:
 - Operating system: Ubuntu 20.04
 - Applied Python packages:
   - <a href="https://github.com/semuconsulting/pygnssutils"><i>pygnssutils</i></a>
-  - <a href="https://github.com/semuconsulting/pygnssutils"><i>pygnssutils</i></a>
+  - <a href="https://pypi.org/project/pyubx2/0.1.9/"><i>pyubx2</i></a>
+  - <a href="https://pypi.org/project/utm/"><i>utm</i></a>
+  - <a href="https://pypi.org/project/Flask/"><i>flask</i></a>
+  - <a href="https://pypi.org/project/lgpio/"><i>lgpio</i></a>
+  
+  
 
 ## 4. Installation
 
